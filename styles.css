@@ -25,7 +25,7 @@ body {
     display: flex;   
     flex-direction: column;
     justify-content: center;
-    background-image: url("images/aurora.gif");
+    background-image: url("aurora.gif");
     background-size: cover;
     height: 500px;
 }
@@ -34,7 +34,7 @@ h1:hover{
     background-color: #F1FAEE; 
 } 
 h2:hover{
-    background-image: url(images/blobs.jpg);     
+    background-image: url(blobs.jpg);     
 }
 
 h1{
